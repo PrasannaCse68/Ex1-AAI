@@ -3,7 +3,7 @@
 <H3> Name : PRASANNA G R</H3>
 <H3>Register No : 212221040129</H3>
 <H3> Experiment : 1</H3>
-<H3>DATE : 30/04/2024</H3>
+<H3>DATE : 09/08/2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
